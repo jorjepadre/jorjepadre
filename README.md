@@ -1,5 +1,5 @@
 # 😉 Me:
-<br>Yo 🖖🏼, I’m Zhanaidar or you can just call me JJ<br>🦾 I’m a tech guy who worked on web and mobile apps previously and now working in the crypto industry.
+<br>🖖🏼 Yo, I’m Zhanaidar or you can just call me JJ<br>🦾 I’m a tech guy who worked on web and mobile apps previously and now working in the crypto industry.
 <br>📫 You can reach me through email on iamzhanaidar.mukanov@gmail.com
 
 
@@ -36,9 +36,10 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorjepadre&theme=nord&hide_border=true)<br/>
+-->
 
 <!--
 ## 🐦 Latest Tweet
@@ -49,7 +50,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
----
+<!---
 [![](https://visitcount.itsvg.in/api?id=jorjepadre&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
