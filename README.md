@@ -36,10 +36,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorjepadre&theme=nord&hide_border=true)<br/>
--->
 
 <!--
 ## 🐦 Latest Tweet
